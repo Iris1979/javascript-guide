@@ -1,10 +1,3 @@
-title: JavaScript规范
-speaker: 武胜利
-transition: zoomin
-theme: moon
-
-
-
 # JavaScript规范
 
 
@@ -1259,7 +1252,7 @@ theme: moon
       return ns
 
         
-    })(window.ns || {},jQuery)
+    })(window.namespace || {},jQuery)
 
     ```
 
